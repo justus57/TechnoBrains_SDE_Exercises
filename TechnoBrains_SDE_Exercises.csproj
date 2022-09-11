@@ -43,5 +43,10 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="EmployeesCSV.zip" />
+    <None Include="EXCERCISE01 AND 02.zip" />
+    <None Include="UnitTestProject.zip" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
